@@ -25,10 +25,10 @@
 ## 🌐 Socials
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/codeandsam/" target="_blank">
+  <a href="https://www.linkedin.com/in/coderxsam/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Sami%20Ullah-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://medium.com/@coded-by-sam" target="_blank">
+  <a href="https://medium.com/@coderxsam" target="_blank">
     <img src="https://img.shields.io/badge/Medium-@coded--by--sam-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
   <a href="mailto:mohammadsamiullah510@gmail.com">
@@ -42,8 +42,8 @@
 
 <h3 align="center"><strong>Commit Streak Analytics</strong></h3>
 <p align="center">
-  <a href="https://github.com/Coded-by-Sam">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Coded-by-Sam&theme=nightowl&background=1c1c24&fire=FFD700&ring=FFD700&sideNums=ffffff&sideLabels=ffffff&dates=FFD700&currStreakNum=ffffff&hide_border=true" width="80%" alt="Streak Stats" />
+  <a href="https://github.com/coderxsam">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderxsam&theme=nightowl&background=1c1c24&fire=FFD700&ring=FFD700&sideNums=ffffff&sideLabels=ffffff&dates=FFD700&currStreakNum=ffffff&hide_border=true" width="80%" alt="Streak Stats" />
   </a>
 </p>
 
@@ -51,7 +51,7 @@
 
 <h2 align="center">📈 Engineering Activity Graph 📈</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Coded-by-Sam&bg_color=1c1c24&color=ffffff&line=FFD700&point=ffffff&area=false&hide_border=true" width="100%" alt="Sami's Activity Graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=coderxsam&bg_color=1c1c24&color=ffffff&line=FFD700&point=ffffff&area=false&hide_border=true" width="100%" alt="Sami's Activity Graph">
 </div>
 
 ---
@@ -91,18 +91,18 @@
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/Coded-by-Sam?tab=repositories">
+  <a href="https://github.com/coderxsam?tab=repositories">
     <img src="https://img.shields.io/badge/SheShield-Women%20Safety%20IoT-red?style=for-the-badge&logo=google-home&logoColor=white" alt="SheShield"/>
   </a>
-  <a href="https://github.com/Coded-by-Sam?tab=repositories">
+  <a href="https://github.com/coderxsam?tab=repositories">
     <img src="https://img.shields.io/badge/StrideSense-IoT%20Assistive%20Navigation-orange?style=for-the-badge&logo=python&logoColor=white" alt="StrideSense"/>
   </a>
-  <a href="https://github.com/Coded-by-Sam?tab=repositories">
+  <a href="https://github.com/coderxsam?tab=repositories">
     <img src="https://img.shields.io/badge/Twitter%20Scraper-RAG%20System-blue?style=for-the-badge&logo=selenium&logoColor=white" alt="Twitter Scraper RAG"/>
   </a>
 </p>
 
-[View All Repositories →](https://github.com/Coded-by-Sam?tab=repositories)
+[View All Repositories →](https://github.com/coderxsam?tab=repositories)
 
 ---
 
