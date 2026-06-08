@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,30:1a0533,60:0a1628,100:0d1b4b&height=280&section=header&text=Muhammad%20Sami%20Ullah&fontSize=58&fontColor=FFD700&fontAlignY=40&desc=Building%20the%20Future%20with%20AI%20%E2%80%94%20One%20Commit%20at%20a%20Time&descColor=8BE9FD&descSize=18&descAlignY=60&animation=fadeIn" width="100%"/>
+  <a href="https://coderxsam.vercel.app" target="_blank">
+    <img src="https://api.microlink.io/?url=https%3A%2F%2Fcoderxsam.vercel.app&screenshot=true&meta=false&embed=screenshot.url" width="100%" alt="Muhammad Sami Ullah — Portfolio"/>
+  </a>
 </div>
 
 <p align="center">
