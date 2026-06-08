@@ -23,8 +23,26 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
+  <a href="https://coderxsam.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-coderxsam.vercel.app-FFD700?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/>
+  </a>
+  &nbsp;
   <img src="https://komarev.com/ghpvc/?username=coderxsam&style=for-the-badge&color=FFD700&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
+
+---
+
+## 🌐 Portfolio
+
+<div align="center">
+  <a href="https://coderxsam.vercel.app" target="_blank">
+    <img src="https://image.thum.io/get/width/1280/crop/720/https://coderxsam.vercel.app" width="82%" alt="Portfolio Preview"/>
+  </a>
+  <br/><br/>
+  <a href="https://coderxsam.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Visit%20My%20Portfolio-coderxsam.vercel.app-FFD700?style=for-the-badge&logo=vercel&logoColor=black" alt="Visit Portfolio"/>
+  </a>
+</div>
 
 ---
 
